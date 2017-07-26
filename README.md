@@ -79,11 +79,11 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 ### Linear Algebra
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 weeks | 8 hours/week
-[Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 weeks | 4 hours/week
-[Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| 4 weeks | 5 hours/week
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 weeks | 8 hours/week |
+[Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 weeks | 4 hours/week |
+[Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| 4 weeks | 5 hours/week |
 
 ### Single Variable Calculus
 Courses | Duration | Effort
@@ -127,6 +127,10 @@ Courses | Duration | Effort
 [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)    [[caltech]](http://work.caltech.edu/lectures.html) | 10 weeks | 10-20 hours/week
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
 [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
+[Machine Learning Foundation -UW](https://www.coursera.org/learn/ml-foundations)| 6 weeks | 5-8 hours/week
+[Machine Learning Regression -UW](https://www.coursera.org/learn/ml-regression)| 6 weeks | 5-8 hours/week
+[Machine Learning Classification -UW](https://www.coursera.org/learn/ml-classification)| 7 weeks | 5-8 hours/week
+[Machine Learning Clustering -UW](https://www.coursera.org/learn/ml-clustering-and-retrieval)| 6 weeks | 5- 8 hours/week
 
 ### Project
 Complete Kaggle's Getting Started and Playground Competitions
