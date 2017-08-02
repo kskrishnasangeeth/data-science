@@ -81,6 +81,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
+[Linear Algebra by Immersion](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 1 week | 3 hours /week | 
 [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) | 5 weeks |  8 hours/week |
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 weeks | 8 hours/week |
 [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 weeks | 4 hours/week |
