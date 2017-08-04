@@ -70,6 +70,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Big Data](#big-data)
 - [Database](#database)
 - [Deep Learning](#deep-learning)
+- [Computer Vision](#computer-vision)
 - [Natural Language Processing](#natural-language-processing)
 - [Capstone Project](#capstone-project)
 - [Specializations](#specializations)
@@ -169,6 +170,12 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
+
+### Computer Vision
+
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Convolution Networks for Visual Recognition](http://cs231n.github.io/)| - weeks | - hours/week
 
 ### Capstone Project
 - Participate in Kaggle competition
