@@ -171,11 +171,15 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 
-### Computer Vision
+### Stanford ML Specials
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Convolution Networks for Visual Recognition](http://cs231n.github.io/)| - weeks | - hours/week
+[ CS231N - Convolution Networks for Visual Recognition](http://cs231n.github.io/)| - weeks | - hours/week
+[CS20Si -Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/) | - weeks | - hours/week
+[CS221 - Artificial Intelligence: Principles and Techniques](http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=11747) | - weeks | - hours/week
+[CS224n - Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | -weeks | -hours / week
+
 
 ### Capstone Project
 - Participate in Kaggle competition
