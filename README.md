@@ -173,6 +173,7 @@ Courses | Duration | Effort
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 [Oxford DL course](https://github.com/oxford-cs-deepnlp-2017/lectures)|        |
 [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | |
+[CMU NLP Neural Networks](http://www.phontron.com/class/nn4nlp2017/schedule.html) | |
 
 ### Stanford ML Specials
 
