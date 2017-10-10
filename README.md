@@ -169,7 +169,7 @@ Courses | Duration | Effort
 ### Deep Learning
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | 4 weeks |  |
+[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | 4 weeks | :heavy_check_mark: |
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 [Oxford DL course](https://github.com/oxford-cs-deepnlp-2017/lectures)|        |
 [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | |
