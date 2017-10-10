@@ -167,7 +167,7 @@ Courses | Duration | Effort
 [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)| - weeks | - hours/week
 
 ### Deep Learning
-Courses | Duration | Effort
+Courses | Duration | Status
 :-- | :--: | :--:
 [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | 4 weeks | :heavy_check_mark: |
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
