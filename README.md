@@ -174,6 +174,9 @@ Courses | Duration | Status
 [Oxford DL course](https://github.com/oxford-cs-deepnlp-2017/lectures)|        |
 [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | |
 [CMU NLP Neural Networks](http://www.phontron.com/class/nn4nlp2017/schedule.html) | |
+[Practical Deep Learning with Pytorch](https://www.udemy.com/practical-deep-learning-with-pytorch/) | | :heavy_check_mark: |
+[Deep Reinforcment Learning course by Deepmind](https://www.youtube.com/watch?v=2pWv7GOvuf0) | | |
+[Deep RL bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) | | |
 
 ### Stanford ML Specials
 
